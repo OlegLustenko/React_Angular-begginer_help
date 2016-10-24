@@ -1,12 +1,16 @@
 # React/Angular begginers help-tasks
 
+Many times for new developers come a question which framework or library should I use/learn? 
+
+I suggest you make small tasks in each framework and compare your feelings.
+
 
 ## Task 1 user-card
 
 1. Using Angular and React parse users.json in starters-kit
 2. Clean-up index.html from html mark-up and ---->
 
-### Angular2 => [Angular2 plunker starter](https://goo.gl/1uuZYF) 
+### Angular => [Angular plunker starter](https://goo.gl/1uuZYF) 
 + You must create a separate Components for the **Avatar** and **Table**.
 + You must send property from 1 component to another
 + The markup in the body index.html should contain only one tag in your application
