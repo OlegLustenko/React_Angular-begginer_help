@@ -6,7 +6,7 @@
 1. Using Angular and React parse users.json in starters-kit
 2. Clean-up index.html from html mark-up and ---->
 
-### Angular => [Angular plunker starter](https://goo.gl/1uuZYF) 
+### Angular2 => [Angular2 plunker starter](https://goo.gl/1uuZYF) 
 + You must create a separate Components for the **Avatar** and **Table**.
 + You must send property from 1 component to another
 + The markup in the body index.html should contain only one tag in your application
