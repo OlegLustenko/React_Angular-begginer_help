@@ -19,4 +19,4 @@
 * index.html should contain only tag initialization of your application
 
 Example:
-![alt tag][https://raw.githubusercontent.com/OlegLustenko/React_Angular-begginer_help/raw/master/img/user_cards.png]
+![alt tag](https://raw.githubusercontent.com/OlegLustenko/React_Angular-begginer_help/master/img/user_cards.png)
